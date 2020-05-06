@@ -36,23 +36,12 @@ JIT (Just in Time) — Its the compilation of code on the fly (Just in time)
     </item>
     
     <item>
-      <title>Changes in Android Runtime</title>
-      <link>https://rotbolt.github.io/projects/changes-android-runtime/</link>
-      <pubDate>Sat, 08 Jun 2019 14:04:27 +0530</pubDate>
-      
-      <guid>https://rotbolt.github.io/projects/changes-android-runtime/</guid>
-      <description>Hey guys , Android has been around ten years and since then Google introduced many things in android , improved , changed and so on. So with the Runtime in Android.
-In this post , I will tell about how the runtime environment in android changed among the android verisons. Before we began , lets know about JIT and AOT
-JIT (Just in Time) — Its the compilation of code on the fly (Just in time) i.</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://rotbolt.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rotbolt.github.io/about/</guid>
-      <description>Hi ! there I am Rohan Maity (aka KaenDagger), a Information Technology Engineering undergraduate student currently in my final year (graduating by June 2020) from MAIT, New Delhi, India.
+      <description>Hi ! there I am Rohan Maity (aka RotBolt), a Information Technology Engineering undergraduate student currently in my final year (graduating by June 2020) from MAIT, New Delhi, India.
 As for technical, I am an engineer who loves to contribute to open source, enthusiast about kotlin language and develop android apps.I have been a tech speaker, mentor &amp;amp; mentee.
 Rest, I am person who loves Naruto, Big bang theory and a lots food \o/.</description>
     </item>
